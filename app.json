@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Detector de Quedas",
+    "slug": "detector-de-quedas",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#0E1116"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0E1116"
+      }
+    }
+  }
+}
